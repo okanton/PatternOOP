@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zToziXCzbvoWTtvxyWG4eGQgodU9ybN4NDNSTU/S77SK72bI2sz1MP1JAt+RCnC/R6xql+UmSVLHZ4jGLvgGRw==",
+  "dgSpecHash": "BKQKhzrPBuvwQ2wKFnAS5dFiHrbwphpfMjRJ0e5QRK0/AKKDF982U8c/H7Qw0dVT7KLk1sFLnsDEkN5L9DdqbQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\PatternsOOP\\BridgePattern\\BridgePattern\\BridgePattern.csproj",
+  "projectFilePath": "C:\\Projects\\PatternOOP\\BridgePattern\\BridgePattern\\BridgePattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

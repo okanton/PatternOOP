@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\PatternsOOP\\AbstractFactoryPattern\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
+      "projectUniqueName": "C:\\Projects\\PatternOOP\\AbstractFactoryPattern\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
       "projectName": "AbstractFactoryPattern",
-      "projectPath": "C:\\Projects\\PatternsOOP\\AbstractFactoryPattern\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
+      "projectPath": "C:\\Projects\\PatternOOP\\AbstractFactoryPattern\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
       "packagesPath": "C:\\Users\\oa\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\PatternsOOP\\AbstractFactoryPattern\\AbstractFactoryPattern\\obj\\",
+      "outputPath": "C:\\Projects\\PatternOOP\\AbstractFactoryPattern\\AbstractFactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oa\\AppData\\Roaming\\NuGet\\NuGet.Config",

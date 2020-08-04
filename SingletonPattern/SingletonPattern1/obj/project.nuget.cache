@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pMoljZl0yElNmM+wJWrytTdor2ZES+jdTd3RANPGZclry8PADXWyVTX4aV2llDXmpWmqp839/Z2OUUEY8rzodw==",
+  "dgSpecHash": "SoHkXM1bhezLnBJyFBO/+B/3i3X0s4hdiClaMe9w5JJmQe2O8yEht/o/qirxXhIzYzzb7ktD+bT9+7mXXzrEmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Splinter\\source\\repos\\SingletonPattern\\SingletonPattern1\\SingletonPattern1.csproj",
+  "projectFilePath": "C:\\Projects\\PatternOOP\\SingletonPattern\\SingletonPattern1\\SingletonPattern1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

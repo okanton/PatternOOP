@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5fMEBjDEGfPbfumD0J9f+FMWiBroCU2o5s7k+AVflAXNCZ+lfTyy+MjIkAGU/HaaprLHIO3U8suDDjNITbMZSQ==",
+  "dgSpecHash": "cinZb6+/D8oAdLtF4FUptEGu1LRlNGBjUNL35zshMsChKRAwMZPiHe/xaQgaA3ViodWSIwoRPTUfjw3avKQAGQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\PatternsOOP\\BuilderPattern\\BuilderPatternGOF\\BuilderPatternGOF.csproj",
+  "projectFilePath": "C:\\Projects\\PatternOOP\\BuilderPattern\\BuilderPatternGOF\\BuilderPatternGOF.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

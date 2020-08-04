@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\PatternsOOP\\ProxyPattern\\ProxyPattern2\\ProxyPattern2.csproj": {}
+    "C:\\Projects\\PatternOOP\\ProxyPattern\\ProxyPattern2\\ProxyPattern2.csproj": {}
   },
   "projects": {
-    "C:\\Project\\PatternsOOP\\ProxyPattern\\ProxyPattern2\\ProxyPattern2.csproj": {
+    "C:\\Projects\\PatternOOP\\ProxyPattern\\ProxyPattern2\\ProxyPattern2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\PatternsOOP\\ProxyPattern\\ProxyPattern2\\ProxyPattern2.csproj",
+        "projectUniqueName": "C:\\Projects\\PatternOOP\\ProxyPattern\\ProxyPattern2\\ProxyPattern2.csproj",
         "projectName": "ProxyPattern2",
-        "projectPath": "C:\\Project\\PatternsOOP\\ProxyPattern\\ProxyPattern2\\ProxyPattern2.csproj",
-        "packagesPath": "C:\\Users\\Splinter\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\PatternsOOP\\ProxyPattern\\ProxyPattern2\\obj\\",
+        "projectPath": "C:\\Projects\\PatternOOP\\ProxyPattern\\ProxyPattern2\\ProxyPattern2.csproj",
+        "packagesPath": "C:\\Users\\oa\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\PatternOOP\\ProxyPattern\\ProxyPattern2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Splinter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

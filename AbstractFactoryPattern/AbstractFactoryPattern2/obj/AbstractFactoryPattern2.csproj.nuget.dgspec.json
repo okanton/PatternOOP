@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\PatternsOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\AbstractFactoryPattern2.csproj": {}
+    "C:\\Projects\\PatternOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\AbstractFactoryPattern2.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\PatternsOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\AbstractFactoryPattern2.csproj": {
+    "C:\\Projects\\PatternOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\AbstractFactoryPattern2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PatternsOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\AbstractFactoryPattern2.csproj",
+        "projectUniqueName": "C:\\Projects\\PatternOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\AbstractFactoryPattern2.csproj",
         "projectName": "AbstractFactoryPattern2",
-        "projectPath": "C:\\Projects\\PatternsOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\AbstractFactoryPattern2.csproj",
+        "projectPath": "C:\\Projects\\PatternOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\AbstractFactoryPattern2.csproj",
         "packagesPath": "C:\\Users\\oa\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PatternsOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\obj\\",
+        "outputPath": "C:\\Projects\\PatternOOP\\AbstractFactoryPattern\\AbstractFactoryPattern2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oa\\AppData\\Roaming\\NuGet\\NuGet.Config",

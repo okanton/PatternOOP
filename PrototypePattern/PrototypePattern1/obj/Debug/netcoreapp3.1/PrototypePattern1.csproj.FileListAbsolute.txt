@@ -11,3 +11,16 @@ C:\Project\PatternsOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.
 C:\Project\PatternsOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.dll
 C:\Project\PatternsOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.pdb
 C:\Project\PatternsOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.genruntimeconfig.cache
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\bin\Debug\netcoreapp3.1\PrototypePattern1.exe
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\bin\Debug\netcoreapp3.1\PrototypePattern1.deps.json
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\bin\Debug\netcoreapp3.1\PrototypePattern1.runtimeconfig.json
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\bin\Debug\netcoreapp3.1\PrototypePattern1.runtimeconfig.dev.json
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\bin\Debug\netcoreapp3.1\PrototypePattern1.dll
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\bin\Debug\netcoreapp3.1\PrototypePattern1.pdb
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.csprojAssemblyReference.cache
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.AssemblyInfoInputs.cache
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.AssemblyInfo.cs
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.csproj.CoreCompileInputs.cache
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.dll
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.pdb
+C:\Projects\PatternOOP\PrototypePattern\PrototypePattern1\obj\Debug\netcoreapp3.1\PrototypePattern1.genruntimeconfig.cache

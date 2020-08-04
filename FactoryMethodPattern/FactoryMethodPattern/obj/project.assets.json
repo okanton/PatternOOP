@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\PatternsOOP\\FactoryMethodPattern\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+      "projectUniqueName": "C:\\Projects\\PatternOOP\\FactoryMethodPattern\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
       "projectName": "FactoryMethodPattern",
-      "projectPath": "C:\\Projects\\PatternsOOP\\FactoryMethodPattern\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+      "projectPath": "C:\\Projects\\PatternOOP\\FactoryMethodPattern\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
       "packagesPath": "C:\\Users\\oa\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\PatternsOOP\\FactoryMethodPattern\\FactoryMethodPattern\\obj\\",
+      "outputPath": "C:\\Projects\\PatternOOP\\FactoryMethodPattern\\FactoryMethodPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oa\\AppData\\Roaming\\NuGet\\NuGet.Config",

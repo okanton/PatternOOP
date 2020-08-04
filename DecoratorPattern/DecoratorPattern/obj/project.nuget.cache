@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D2SPD7ywsWQdCvmpN5sgjEMyd0Xe/QH9gdv2HmoCHVQ5RD3RhcQyJOYIpjta1v8C0UyWULAOSJRZVhSawFcDNw==",
+  "dgSpecHash": "CnYbK9c+vTxuu7G0p0rpH3DFiBeYjqHUWnt52g8ZvkXrFJ2FECA2OYkQhal1Sv3901RXMcrvLHYhXpp59yRarg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\PatternsOOP\\DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+  "projectFilePath": "C:\\Projects\\PatternOOP\\DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

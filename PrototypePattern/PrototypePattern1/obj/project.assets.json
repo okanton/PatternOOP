@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Splinter\\.nuget\\packages\\": {}
+    "C:\\Users\\oa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\PatternsOOP\\PrototypePattern\\PrototypePattern1\\PrototypePattern1.csproj",
+      "projectUniqueName": "C:\\Projects\\PatternOOP\\PrototypePattern\\PrototypePattern1\\PrototypePattern1.csproj",
       "projectName": "PrototypePattern1",
-      "projectPath": "C:\\Project\\PatternsOOP\\PrototypePattern\\PrototypePattern1\\PrototypePattern1.csproj",
-      "packagesPath": "C:\\Users\\Splinter\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\PatternsOOP\\PrototypePattern\\PrototypePattern1\\obj\\",
+      "projectPath": "C:\\Projects\\PatternOOP\\PrototypePattern\\PrototypePattern1\\PrototypePattern1.csproj",
+      "packagesPath": "C:\\Users\\oa\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\PatternOOP\\PrototypePattern\\PrototypePattern1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Splinter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
