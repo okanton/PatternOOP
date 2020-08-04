@@ -1,0 +1,13 @@
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\bin\Debug\netcoreapp3.1\SingletonPattern1.exe
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\bin\Debug\netcoreapp3.1\SingletonPattern1.deps.json
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\bin\Debug\netcoreapp3.1\SingletonPattern1.runtimeconfig.json
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\bin\Debug\netcoreapp3.1\SingletonPattern1.runtimeconfig.dev.json
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\bin\Debug\netcoreapp3.1\SingletonPattern1.dll
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\bin\Debug\netcoreapp3.1\SingletonPattern1.pdb
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\obj\Debug\netcoreapp3.1\SingletonPattern1.csprojAssemblyReference.cache
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\obj\Debug\netcoreapp3.1\SingletonPattern1.AssemblyInfoInputs.cache
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\obj\Debug\netcoreapp3.1\SingletonPattern1.AssemblyInfo.cs
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\obj\Debug\netcoreapp3.1\SingletonPattern1.csproj.CoreCompileInputs.cache
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\obj\Debug\netcoreapp3.1\SingletonPattern1.dll
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\obj\Debug\netcoreapp3.1\SingletonPattern1.pdb
+C:\Users\Splinter\source\repos\SingletonPattern\SingletonPattern1\obj\Debug\netcoreapp3.1\SingletonPattern1.genruntimeconfig.cache

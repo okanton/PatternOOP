@@ -1,0 +1,13 @@
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\bin\Debug\netcoreapp3.1\AdapterPattern_Class.exe
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\bin\Debug\netcoreapp3.1\AdapterPattern_Class.deps.json
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\bin\Debug\netcoreapp3.1\AdapterPattern_Class.runtimeconfig.json
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\bin\Debug\netcoreapp3.1\AdapterPattern_Class.runtimeconfig.dev.json
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\bin\Debug\netcoreapp3.1\AdapterPattern_Class.dll
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\bin\Debug\netcoreapp3.1\AdapterPattern_Class.pdb
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\obj\Debug\netcoreapp3.1\AdapterPattern_Class.csprojAssemblyReference.cache
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\obj\Debug\netcoreapp3.1\AdapterPattern_Class.AssemblyInfoInputs.cache
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\obj\Debug\netcoreapp3.1\AdapterPattern_Class.AssemblyInfo.cs
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\obj\Debug\netcoreapp3.1\AdapterPattern_Class.csproj.CoreCompileInputs.cache
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\obj\Debug\netcoreapp3.1\AdapterPattern_Class.dll
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\obj\Debug\netcoreapp3.1\AdapterPattern_Class.pdb
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Class\obj\Debug\netcoreapp3.1\AdapterPattern_Class.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\bin\Debug\netcoreapp3.1\BuilderPatternGOF.exe
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\bin\Debug\netcoreapp3.1\BuilderPatternGOF.deps.json
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\bin\Debug\netcoreapp3.1\BuilderPatternGOF.runtimeconfig.json
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\bin\Debug\netcoreapp3.1\BuilderPatternGOF.runtimeconfig.dev.json
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\bin\Debug\netcoreapp3.1\BuilderPatternGOF.dll
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\bin\Debug\netcoreapp3.1\BuilderPatternGOF.pdb
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\obj\Debug\netcoreapp3.1\BuilderPatternGOF.csprojAssemblyReference.cache
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\obj\Debug\netcoreapp3.1\BuilderPatternGOF.AssemblyInfoInputs.cache
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\obj\Debug\netcoreapp3.1\BuilderPatternGOF.AssemblyInfo.cs
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\obj\Debug\netcoreapp3.1\BuilderPatternGOF.csproj.CoreCompileInputs.cache
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\obj\Debug\netcoreapp3.1\BuilderPatternGOF.dll
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\obj\Debug\netcoreapp3.1\BuilderPatternGOF.pdb
+C:\Projects\PatternsOOP\BuilderPattern\BuilderPatternGOF\obj\Debug\netcoreapp3.1\BuilderPatternGOF.genruntimeconfig.cache

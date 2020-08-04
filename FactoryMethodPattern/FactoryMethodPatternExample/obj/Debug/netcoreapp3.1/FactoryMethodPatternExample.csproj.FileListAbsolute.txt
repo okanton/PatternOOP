@@ -1,0 +1,13 @@
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\bin\Debug\netcoreapp3.1\FactoryMethodPatternExample.exe
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\bin\Debug\netcoreapp3.1\FactoryMethodPatternExample.deps.json
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\bin\Debug\netcoreapp3.1\FactoryMethodPatternExample.runtimeconfig.json
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\bin\Debug\netcoreapp3.1\FactoryMethodPatternExample.runtimeconfig.dev.json
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\bin\Debug\netcoreapp3.1\FactoryMethodPatternExample.dll
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\bin\Debug\netcoreapp3.1\FactoryMethodPatternExample.pdb
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\obj\Debug\netcoreapp3.1\FactoryMethodPatternExample.csprojAssemblyReference.cache
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\obj\Debug\netcoreapp3.1\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\obj\Debug\netcoreapp3.1\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\obj\Debug\netcoreapp3.1\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\obj\Debug\netcoreapp3.1\FactoryMethodPatternExample.dll
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\obj\Debug\netcoreapp3.1\FactoryMethodPatternExample.pdb
+C:\Projects\PatternsOOP\FactoryMethodPattern\FactoryMethodPatternExample\obj\Debug\netcoreapp3.1\FactoryMethodPatternExample.genruntimeconfig.cache

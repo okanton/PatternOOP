@@ -1,0 +1,13 @@
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.exe
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.deps.json
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.runtimeconfig.json
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.runtimeconfig.dev.json
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.dll
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.pdb
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.csprojAssemblyReference.cache
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.AssemblyInfoInputs.cache
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.AssemblyInfo.cs
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.csproj.CoreCompileInputs.cache
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.dll
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.pdb
+C:\Project\PatternsOOP\FlyWeightPattern\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.genruntimeconfig.cache

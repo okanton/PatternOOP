@@ -1,0 +1,12 @@
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\bin\Debug\netcoreapp3.1\AdapterPattern_Object.exe
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\bin\Debug\netcoreapp3.1\AdapterPattern_Object.deps.json
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\bin\Debug\netcoreapp3.1\AdapterPattern_Object.runtimeconfig.json
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\bin\Debug\netcoreapp3.1\AdapterPattern_Object.runtimeconfig.dev.json
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\bin\Debug\netcoreapp3.1\AdapterPattern_Object.dll
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\bin\Debug\netcoreapp3.1\AdapterPattern_Object.pdb
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\obj\Debug\netcoreapp3.1\AdapterPattern_Object.AssemblyInfoInputs.cache
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\obj\Debug\netcoreapp3.1\AdapterPattern_Object.AssemblyInfo.cs
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\obj\Debug\netcoreapp3.1\AdapterPattern_Object.csproj.CoreCompileInputs.cache
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\obj\Debug\netcoreapp3.1\AdapterPattern_Object.dll
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\obj\Debug\netcoreapp3.1\AdapterPattern_Object.pdb
+C:\Project\PatternsOOP\AdapterPattern_Class\AdapterPattern_Object\obj\Debug\netcoreapp3.1\AdapterPattern_Object.genruntimeconfig.cache

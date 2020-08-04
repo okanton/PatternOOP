@@ -1,0 +1,13 @@
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.exe
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.deps.json
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.runtimeconfig.json
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.runtimeconfig.dev.json
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.dll
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.pdb
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.csprojAssemblyReference.cache
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.AssemblyInfoInputs.cache
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.AssemblyInfo.cs
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.dll
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.pdb
+C:\Project\PatternsOOP\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.genruntimeconfig.cache
